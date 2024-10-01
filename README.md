@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @staphachino
+- 👋 Hi, I’m Chris, aka. @staphachino
 - 👀 I’m interested in Technology, Music and Long walks on the beach
 - 🌱 I’m currently learning to survive the rat race of life
 - 💞️ I’m looking to collaborate on projects using golang
